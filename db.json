@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {
+      "text": "sampurna",
+      "day": "bhg jaa",
+      "reminder": true,
+      "id": "DawBu5ZR5BI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
